@@ -1,4 +1,6 @@
-||Nama||
+**Nama:** Ahmad Fauzan Adhima
+**NIM:** 230605110081
+**Kelas:** B
 
 # KataKita
 ## Project Website
