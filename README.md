@@ -1,5 +1,5 @@
-**Nama:** Ahmad Fauzan Adhima
-**NIM:** 230605110081
+**Nama:** Ahmad Fauzan Adhima\n
+**NIM:** 230605110081\n
 **Kelas:** B
 
 # KataKita
