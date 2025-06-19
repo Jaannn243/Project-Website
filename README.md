@@ -34,3 +34,4 @@
 > - Bisa Melihat Profile pribadi
 > - Bisa Logout
 > - Bisa Melihat daftar User (username, email, dan password)
+> - Bisa Melihat, Mengedit, dan Menghapus kategori artikel
