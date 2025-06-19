@@ -8,4 +8,5 @@
 > - Bisa Mengedit Password User
 > - Bisa Melihat semua artikel dari semua user
 > - Bisa Melihat semua artikel berdasarkan kategori
-> - Bisa Melihat status dari artikel yang sudah disetujui, ditolak, ataupun menunggu persetujuan**
+> - Bisa Melihat status dari artikel yang sudah disetujui, ditolak, ataupun menunggu persetujuan
+**
