@@ -3,7 +3,7 @@
 
 ## Fitur-Fitur Per User
 
-**1. User/Author
+**1. User/Author**
 - Bisa Mengupload/Mengedit/Menghapus artikel yang sudah di upload
 - Bisa Mengedit Password User
 - Bisa Melihat semua artikel dari semua user
