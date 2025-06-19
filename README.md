@@ -1,4 +1,4 @@
-|| Nama ||
+||Nama||
 
 # KataKita
 ## Project Website
