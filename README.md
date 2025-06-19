@@ -13,6 +13,7 @@
 > - Bisa Mengedit Password User
 > - Bisa Melihat semua artikel dari semua user
 > - Bisa Melihat semua artikel berdasarkan kategori
+> - Bisa Melihat artikel yang sudah diupload (oleh user yang saat ini sedang login)
 > - Bisa Melihat status dari artikel yang sudah disetujui, ditolak, ataupun menunggu persetujuan
 > - Bisa Melihat Detail Artikel
 > - Bisa Login dan Register
