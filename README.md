@@ -10,12 +10,14 @@
 
 **1. User/Author**
 > - Bisa Mengupload/Mengedit/Menghapus artikel yang sudah di upload
+> - Bisa mengupload gambar
 > - Bisa Mengedit Password User
 > - Bisa Melihat semua artikel dari semua user
 > - Bisa Melihat semua artikel berdasarkan kategori
 > - Bisa Melihat artikel yang sudah diupload (oleh user yang saat ini sedang login)
 > - Bisa Melihat status dari artikel yang sudah disetujui, ditolak, ataupun menunggu persetujuan
 > - Bisa Melihat Detail Artikel
+> - Bisa Melihat 10 Artikel Secara Acak (setiap di refresh maka akan teracak kembali)
 > - Bisa Login dan Register
 > - Bisa Melihat Profile pribadi
 > - Bisa Logout
@@ -33,5 +35,6 @@
 > - Bisa Melihat semua artikel yang sedang dalam status "Menunggu Persetujuan"
 > - Bisa Melihat Profile pribadi
 > - Bisa Logout
-> - Bisa Melihat daftar User (username, email, dan password)
+> - Bisa Melihat daftar User (id, username, email)
 > - Bisa Melihat, Mengedit, dan Menghapus kategori artikel
+> - Bisa Melihat 10 Artikel secara acak (setiap di refresh maka akan teracak kembali)
