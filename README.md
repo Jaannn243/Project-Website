@@ -11,6 +11,8 @@
 > - Bisa Melihat status dari artikel yang sudah disetujui, ditolak, ataupun menunggu persetujuan
 > - Bisa Melihat Detail Artikel
 > - Bisa Login dan Register
+> - Bisa Melihat Profile pribadi
+> - Bisa Logout
 
 **2. Admin**
 > - Bisa Melihat berapa banyak artikel yang ada di database
@@ -23,3 +25,6 @@
 > - Bisa Melihat semua artikel berdasarkan kategori
 > - Bisa Login dan Register
 > - Bisa Melihat semua artikel yang sedang dalam status "Menunggu Persetujuan"
+> - Bisa Melihat Profile pribadi
+> - Bisa Logout
+> - Bisa Melihat daftar User (username, email, dan password)
