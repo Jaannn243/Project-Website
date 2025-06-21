@@ -27,7 +27,7 @@
 > - Bisa Melihat diagram penggunaan kategori
 > - Bisa Melihat jumlah semua User/Author (termasuk admin)
 > - Bisa Mengedit, dan menghapus User/Author
-> - Bisa Menyetuji artikel yang sudah di upload
+> - Bisa Menyetujui artikel yang sudah di upload
 > - Bisa Mengedit, menghapus, dan melihat semua artikel yang ada
 > - Bisa Melihat detail dari artikel
 > - Bisa Melihat semua artikel berdasarkan kategori
